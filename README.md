@@ -1,9 +1,8 @@
 # Git Collaboration
 
 This repository provides an exercise for practicing Git/Github collaboration
-skills.  To complete this exercise, you should have been assigned a partner to
-work with.  If you have not been assigned a partner, please reach out to the
-instructor.
+skills.  To complete this exercise, you will need to work with a partner to
+complete it.  If you have not sure how to find a partner, please reach out to course staff for assistance.
 
 For this exercise, one of you will be the "owner" of the repository, and the
 other will be the "contributor".
